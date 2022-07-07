@@ -30,6 +30,8 @@ OnePlus 8 Series & 9R (instantnoodle,instantnoodlep,kebab & lemonades) - [HELLBO
 
 OnePlus 9 Pro (lemonadep) - [Sherif Rahim](https://t.me/sherifrahim)
 
+Oneplus 7T (hotdog) - [Matheus Vieira](https://t.me/matt0301)
+
 # Asus devices
 
 Asus Zenfone Max Pro M1 (X00T/X00TD) - [shreyanshkansara](https://t.me/shreyanshkansara)
@@ -37,3 +39,9 @@ Asus Zenfone Max Pro M1 (X00T/X00TD) - [shreyanshkansara](https://t.me/shreyansh
 # Realme devices
 
 Realme 6785 Unified (RM6785) - [RahulGorai0206](https://t.me/RahulGorai)
+
+# Pixel devices
+
+Pixel 6 (oriole) - [hurtcopain](https://t.me/hurtcopain)
+
+Pixel 6 pro (raven) - [hurtcopain](https://t.me/hurtcopain)
