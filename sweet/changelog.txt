@@ -1,0 +1,12 @@
+----------| Redmi Note 10 Pro/Max |------------
+
+Release : 13-07-2022
+
+Device Changelog :
+
+• MIUI Camera added
+• Nuked Moto Dolby
+• July path merged
+• no QS lags
+• Improved performance
+• Updated device / vendor trees from MIUI 13.0.4
