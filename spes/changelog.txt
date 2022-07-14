@@ -1,0 +1,10 @@
+----------| Redmi Note 11 |------------
+
+Release : 14-07-2022
+
+Device Changelog :
+
+• Initial Official Release
+• Shipped with Gcam
+• July security patch
+• Smooth performance
