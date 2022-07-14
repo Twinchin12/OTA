@@ -1,0 +1,57 @@
+Release:14/07/2022
+
+
+
+Device Changelog :
+
+
+
+•Enabled OTA
+
+•Introudced Livedisplay 
+
+•Add Moto Dolby back 
+
+•Dolby from Alioth TM 
+
+• Dolby: Enable bass-enhancer for Headphones  
+
+•sepolicy: Address iorapd policy
+
+•Sepolicy: Allow Priv_app to find com.android.vndk.current.on_vendor.apex
+
+•Sepolicy: Allow system_app to read /proc/pagetypeinfo
+
+•Sepolicy: Add Palm Sensor to TouchScreen GenFS
+
+• Address QCOM WFD denials
+
+• rootdir:Create directory used by powermodule 
+
+• sepolicy: Drop DFPS props labelling
+
+• Move NFC SKU permissions to NFC section
+
+• Switch to liyuu clang 14
+
+• Sepolicy: Further improve Mi_Thermald sepolicy
+
+• Rootdir: Remove unexported property trigger
+
+• sepolicy: Import & Improve qtidataservices Sepolicy
+
+• Enable Iorapd Readahead
+
+• Declare smart idle maint's period
+
+• BT: Enable persist.vendor.btstack.connect.peer_earbud Feature
+
+•Add support for custom one anx
+
+•Add some requested props by Anx
+
+•Audio: Enforce stock AUDIO_FORMAT_PCM_8_24_BIT to primary input
+
+•Sepolicy: Yet another sepolicy fix for mi_thermald
+
+•Other miscs improvements
