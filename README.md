@@ -8,6 +8,8 @@ Redmi Note 10 (sunny/mojito) - [makepkg_love](https://t.me/makepkg_love)
 
 Redmi Note 10 Pro/Max (sweet) - [kidnappedmyself](https://t.me/Kidnappedmyself)
 
+Redmi Note 11 (spes) - [Imtiaz Rahman](https://t.me/XrImtiaz)
+
 POCO F1 (beryllium) - [RahulGorai0206](https://t.me/RahulGorai)
 
 POCO X2 (phoenix) - [harvey_spectar](https://t.me/harvey_spectar)
@@ -30,7 +32,7 @@ OnePlus 8 Series & 9R (instantnoodle,instantnoodlep,kebab & lemonades) - [HELLBO
 
 OnePlus 9 Pro (lemonadep) - [Sherif Rahim](https://t.me/sherifrahim)
 
-Oneplus 7T (hotdog) - [Matheus Vieira](https://t.me/matt0301)
+Oneplus 7T (hotdogb) - [Matheus Vieira](https://t.me/matt0301)
 
 # Asus devices
 
