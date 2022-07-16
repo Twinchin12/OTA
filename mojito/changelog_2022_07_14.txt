@@ -1,0 +1,3 @@
+Changelog for MOJITO - REDMI NOTE 10
+
+Initial release
