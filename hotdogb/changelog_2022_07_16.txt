@@ -1,0 +1,11 @@
+* Fixed Proximity sensor
+* Unpin camera and launcher on memory
+* Using 8gb Dalvik Cache
+* Fixed rank of QC OMX components
+* Addressed init denial
+* Enabled HWUI_COMPILE_FOR_PERF 
+* Disabled GPU protected composition
+* Synced props for third party stabilization
+* Enabled usage of dex2oat64 
+* Switched to android.hardware.thermal@2.0-service.qti 
+* Included hotword enrollment blobs
