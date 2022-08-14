@@ -1,0 +1,5 @@
+-Fixed know issues 
+-Fixed Deep Sleep issue
+-Fixed FOD issues somtimes does not respond and made more accurate
+-EOL update thanks for your support till now.
+
