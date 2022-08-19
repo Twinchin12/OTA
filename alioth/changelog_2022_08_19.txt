@@ -1,0 +1,14 @@
+device changelog :
+
+  -  Blobs: updated to MIUI 13.0.7.0
+  -  Added Pixel Launcher Mod with dgicons
+  - Added OnePlus Dolby (thanks to @johnmart19)
+  -  GCam: switched to MGC
+  - Limit display refresh rate in AoD
+  - Limit screen recorder's framerate to 120fps
+  - Import HbmSV overlays from gourami
+  - Adjust Dynamic HZ scaling times
+  - Increase audio buffering & Hal Period Multipler
+  -  Misc improvements
+
+
