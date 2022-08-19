@@ -6,7 +6,7 @@ Redmi Note 8 (ginkgo) - [RahulGorai0206](https://t.me/RahulGorai)
 
 Redmi Note 10 (sunny/mojito) - [makepkg_love](https://t.me/makepkg_love)
 
-Redmi Note 10 Pro/Max (sweet) - [kidnappedmyself](https://t.me/Kidnappedmyself)
+Redmi Note 10 Pro/Max (sweet) - [Zaid Khan](https://t.me/zaidkhan0997)
 
 Redmi Note 11 (spes) - [Imtiaz Rahman](https://t.me/XrImtiaz)
 
