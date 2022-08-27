@@ -1,0 +1,5 @@
+1.Intial A13 Build
+
+Know Issues:
+
+1.Touch Gesture Not Working Goona Fix Soom.
