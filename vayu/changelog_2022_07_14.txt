@@ -1,6 +1,0 @@
-Device Changelog :
-
-•Enabled OTA
-•New Device tree
-•Some optimitation
-
