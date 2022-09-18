@@ -1,1 +1,14 @@
-Init A13 Official build for veux
+=-=-=-= 17/09/2022 =-=-=-=
+Device Changelogs
+--------------------------
+* veux: overlay: Enable front-facing camera protection
+* veux: Add missing FM blobs 
+* veux: Show 4G icon for all carriers 
+* veux: Remove junk BT props 
+* veux: Fixed video recording bug
+* veux: Fixed wifi and hotspot bug
+
+=-=-=-= 07/09/2022 =-=-=-=
+Device Changelogs
+--------------------------
+* veux: Init A13 Official build for veux
