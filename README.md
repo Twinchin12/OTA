@@ -34,6 +34,8 @@ OnePlus 9 Pro (lemonadep) - [Sherif Rahim](https://t.me/sherifrahim)
 
 Oneplus 7T (hotdogb) - [Matheus Vieira](https://t.me/matt0301)
 
+Oneplus 5/5T (cheeseburger,dumpling) - [Mudabbirul Saad](https://t.me/MudabbirulSaad)
+
 # Asus devices
 
 Asus Zenfone Max Pro M1 (X00T/X00TD) - [shreyanshkansara](https://t.me/shreyanshkansara)
