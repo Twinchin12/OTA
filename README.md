@@ -2,6 +2,8 @@ Here's the list of supported devices and their mantainers :
 
 # Xiaomi/Redmi devices
 
+Redmi Note 7 Pro (violet) - [kibria5](https://t.me/kibria5)
+
 Redmi Note 8 (ginkgo) - [RahulGorai0206](https://t.me/RahulGorai)
 
 Redmi Note 10 (sunny/mojito) - [makepkg_love](https://t.me/makepkg_love)

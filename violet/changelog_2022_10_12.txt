@@ -1,0 +1,10 @@
+    -- Changelogs--
+
+- Initial OFFICIAL Build
+- October security patch
+- Safetynet passes by default
+- kernel Azure+
+- Update all system blobs
+- GCamGo as Default Camera
+- Add Offline Charging LED Indicator
+- Remove unwanted apps
