@@ -4,50 +4,20 @@ Here's the list of supported devices and their mantainers :
 
 Redmi Note 7 Pro (violet) - [kibria5](https://t.me/kibria5)
 
-Redmi Note 8 (ginkgo) - [RahulGorai0206](https://t.me/RahulGorai)
-
-Redmi Note 10 (sunny/mojito) - [makepkg_love](https://t.me/makepkg_love)
-
-Redmi Note 10 Pro/Max (sweet) - [Zaid Khan](https://t.me/zaidkhan0997)
-
-Redmi Note 11 (spes) - [Imtiaz Rahman](https://t.me/XrImtiaz)
-
-POCO F1 (beryllium) - [RahulGorai0206](https://t.me/RahulGorai)
-
-POCO X2 (phoenix) - [harvey_spectar](https://t.me/harvey_spectar)
-
 POCO X3 NFC (surya) - [Hazama25](https://t.me/Hazama25)
 
-POCO X3 Pro (vayu) - [Ste0090](https://t.me/Ste0090)
+POCO X4 Pro 5G (veux) - [SharmagRit](https://t.me/SharmagRit)
 
 POCO F3 / Xiaomi Mi 11X / Redmi K40 (alioth) - [VEN0M98](https://t.me/VEN0M98)
-
-Xiaomi Mi 9 Lite (pyxis) - [Axmy3](https://t.me/Axmy3)
-
-Xiaomi MI 9T Pro / Redmi K20 Pro (raphael) - [Tetsuo_Osaka](https://t.me/Tetsuo_Osaka)
 
 # OnePlus devices
 
 OnePlus Nord (avicii) - [Manikanta Raavi](https://t.me/AlwaysAngry) 
 
-OnePlus 8 Series & 9R (instantnoodle,instantnoodlep,kebab & lemonades) - [HELLBOY017](https://t.me/HELLBOY017)
+OnePlus 8T/9R (kebab & lemonades) - [HELLBOY017](https://t.me/HELLBOY017)
+
+OnePlus 8/8 Pro (instantnoodle & instantnoodlep) - [Twinchin12](https://t.me/twinchin96)
 
 OnePlus 9 Pro (lemonadep) - [Sherif Rahim](https://t.me/sherifrahim)
 
-Oneplus 7T (hotdogb) - [Matheus Vieira](https://t.me/matt0301)
-
-Oneplus 5/5T (cheeseburger,dumpling) - [Mudabbirul Saad](https://t.me/MudabbirulSaad)
-
-# Asus devices
-
-Asus Zenfone Max Pro M1 (X00T/X00TD) - [shreyanshkansara](https://t.me/shreyanshkansara)
-
-# Realme devices
-
-Realme 6785 Unified (RM6785) - [RahulGorai0206](https://t.me/RahulGorai)
-
-# Pixel devices
-
-Pixel 6 (oriole) - [hurtcopain](https://t.me/hurtcopain)
-
-Pixel 6 pro (raven) - [hurtcopain](https://t.me/hurtcopain)
+OnePlus 5/5T (cheeseburger,dumpling) - [Mudabbirul Saad](https://t.me/MudabbirulSaad)
