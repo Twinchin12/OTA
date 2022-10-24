@@ -1,0 +1,4 @@
+- Initial A13 Build
+- Based on OOS 12 C.33
+- EROFS BUILD
+- Meteoric Kernel Inline
